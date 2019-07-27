@@ -1,8 +1,5 @@
 //
 // main.cpp
-// Justin Zwart
-//
-// This program will take a picture, detect its edges, and generate a maze out of the edges
 //
 
 
